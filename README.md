@@ -1,2 +1,2 @@
 # pygame-vfx
- Various VFX for Pygame
+Various visual effect experiments on Pygame
